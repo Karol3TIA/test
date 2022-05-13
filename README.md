@@ -1,3 +1,4 @@
 # test
 TESTOWANIE
 <<< PIERWSZA ZMIANA >>>
+<<< DRUGA ZMIANA >>>
